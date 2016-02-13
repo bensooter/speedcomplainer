@@ -1,5 +1,5 @@
 # speedcomplainer
-A python app that will test your internet connection and then complain to your service provider (and log to a data store if you'd like)
+A python app that will test the speed of multiple network interfaces and log the resutls
 
 ## Configuration
 Configuration is handled by a basic JSON file. Things that can be configured are:
